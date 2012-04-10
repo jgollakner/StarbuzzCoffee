@@ -7,7 +7,7 @@ package version1;
  * needed to handle every possible combination. Worse yet, many of those
  * classes will require edits if base costs or condiment costs change.
  *
- * This version is rigid, brittle and not portable.
+ * This version is rigid, brittle and not portable. 
  *
  * @author Head First Design Patterns
  */
