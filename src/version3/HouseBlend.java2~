@@ -1,0 +1,25 @@
+package version3;
+
+/**
+ *
+ * @author Head First Design Patterns
+ */
+public class HouseBlend extends Beverage {
+
+    public HouseBlend() {
+        description = "House Blend";
+    }
+
+    @Override
+    public double cost() {
+        return .89;
+    }
+
+    // <editor-fold defaultstate="collapsed" desc=" UML Marker "> 
+    // #[regen=yes,id=DCE.08713DF1-ECFE-405C-82DF-99CFD017BDC8]
+    // </editor-fold> 
+    public String toString () {
+        return null;
+    }
+
+}

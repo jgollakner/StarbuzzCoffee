@@ -1,0 +1,9 @@
+package version3;
+
+/**
+ *
+ * @author jlombardo
+ */
+public abstract class CondimentDecorator extends Beverage {
+    public abstract String getDescription();
+}

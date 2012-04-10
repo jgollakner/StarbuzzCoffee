@@ -1,0 +1,16 @@
+package version3;
+
+/**
+ * 
+ * @author Head First Design Patterns
+ */
+public abstract class Beverage {
+    String description = "Unknown";
+
+
+    public abstract double cost();
+
+    public String getDescription() {
+        return description;
+    }
+}
